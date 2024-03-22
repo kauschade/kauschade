@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kau
 
 ## About Me
-I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Systems Integrator at Sisplan Sistemas.
+I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Systems Integrator at Sisplan Sistemas 🇧🇷.
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/-kauschade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kauschade)](https://instagram.com/kauschade)
