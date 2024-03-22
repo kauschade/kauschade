@@ -25,6 +25,6 @@ I'm a Fullstack Developer from Brazil passionate about creating meaningful proje
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauschade&layout=compact&theme=vue" alt="Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauschade&theme=vue" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauschade&layout=compact&theme=vue&bg_color=0D1117" alt="Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauschade&theme=vue&background=0D1117" alt="GitHub Streak"/>
 </p>
