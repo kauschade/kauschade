@@ -21,6 +21,8 @@ I'm a Fullstack Developer from Brazil passionate about creating meaningful proje
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github_desktop/github_desktop-icon.svg" alt="GitHub Desktop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Stats
