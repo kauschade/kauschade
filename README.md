@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Kau
-```echo "Hello People!"```
 
 ## About Me
 I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Systems Integrator at Sisplan Sistemas 🇧🇷.
-I'm currently working on my biggest NutrifySC project. Check it out by clicking [here](https://nutrify.devkau.com)!
+I'm currently working on my biggest NutrifySC project. Check it out by clicking [here](https://nutrify.devkau.com) 💙
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/-kauschade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kauschade)](https://instagram.com/kauschade)
