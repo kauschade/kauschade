@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Kau
+```echo "Hello People!"```
 
 ## About Me
 I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Systems Integrator at Sisplan Sistemas 🇧🇷.
