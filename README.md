@@ -17,5 +17,6 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauschade&layout=compact&theme=vue&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="Top Langs" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauschade&layout=compact&theme=vue&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="Top Langs" style="width: 45%; display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kauschade&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="width: 45%; display: inline-block;"/>
 </p>
