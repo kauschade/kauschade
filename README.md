@@ -8,6 +8,7 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 [![Instagram](https://img.shields.io/badge/-kauschade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kauschade)](https://instagram.com/kauschade)
 [![Twitter](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/kauschade)](https://twitter.com/kauschade)
 [![LinkedIn](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kauschade)](https://www.linkedin.com/in/kauê-renan-schade-a39522284/)
+[![Discord](https://img.shields.io/badge/-kauuul-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 
 ## 💻 Languages and Tools
 [![languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,cs,react)](https://skillicons.dev)
