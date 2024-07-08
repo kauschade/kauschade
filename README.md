@@ -12,9 +12,6 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 ## 💻 Languages and Tools
 [![languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,cs,react)](https://skillicons.dev)
 
-### Softwares
-[![softwares](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,figma)](https://skillicons.dev)
-
 ### Databases
 [![databases](https://skillicons.dev/icons?i=postgres,mysql,mssql)](https://skillicons.dev)
 
