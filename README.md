@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Web Developer at [Sisplan Sistemas](https://sisplansistemas.com.br) 🇧🇷.
-I'm currently working on my biggest project. Check it out by clicking [here](https://nutrifysc.devkau.com) 💙 (this project has no connection with Sisplan Sistemas)
+I'm currently working on my biggest project. Check it out by clicking [here](https://ecomonitor.devkau.com) 💙 (this project has no connection with Sisplan Sistemas)
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/-kauschade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kauschade)](https://instagram.com/kauschade)
