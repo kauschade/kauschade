@@ -10,8 +10,11 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 [![LinkedIn](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kauschade)](https://www.linkedin.com/in/kauê-renan-schade-a39522284/)
 [![Discord](https://img.shields.io/badge/-kauuul-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 
-## 💻 Languages and Tools
+## 💻 Languages
 [![languages](https://skillicons.dev/icons?i=react,js,ts,cs,nodejs,php)](https://skillicons.dev)
+
+### FrameWorks
+[![languages](https://skillicons.dev/icons?i=discordjs,jquery,laravel)](https://skillicons.dev)
 
 ### Databases
 [![databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
