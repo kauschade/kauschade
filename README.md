@@ -11,7 +11,7 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 [![Discord](https://img.shields.io/badge/-kauuul-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 
 ## 💻 Languages and Tools
-[![languages](https://skillicons.dev/icons?i=html,css,js,ts,cs,nodejs,php,react,pas)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=react,js,ts,cs,nodejs,php,pas)](https://skillicons.dev)
 
 ### Databases
 [![databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
