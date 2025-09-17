@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Kauê%20Schade&fontAlign=50&animation=fadeIn&textBg=false&fontSize=40&desc=Desenvolvedor%20Full-Stack&descAlign=50&descAlignY=68&fontColor=F1F1F1"/>
 </p>
 
-<h1 align="center"> Welcome to my Gitub</h1>
+<h1 align="center"> Welcome to my Github</h1>
 
 ### About Me
 I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Web Developer at [Sisplan Sistemas](https://sisplansistemas.com.br) 🇧🇷.
