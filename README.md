@@ -1,14 +1,12 @@
-# Hi there! 👋 I'm Kau
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Kauê%20Schade&fontAlign=50&animation=fadeIn&textBg=false&fontSize=40&desc=Desenvolvedor%20Full-Stack&descAlign=50&descAlignY=68&fontColor=F1F1F1"/>
+</p>
 
-## About Me
+<h1 align="center"> Welcome to my Gitub</h1>
+
+### About Me
 I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Web Developer at [Sisplan Sistemas](https://sisplansistemas.com.br) 🇧🇷.
 I'm currently working on my biggest project. Check it out by clicking [here](https://ecomonitor.devkau.com) 💙 (this project has no connection with Sisplan Sistemas)
-
-## Connect with Me
-[![Instagram](https://img.shields.io/badge/-kauschade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kauschade)](https://instagram.com/kauschade)
-[![Twitter](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/kauschade)](https://twitter.com/kauschade)
-[![LinkedIn](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kauschade)](https://www.linkedin.com/in/kauê-renan-schade-a39522284/)
-[![Discord](https://img.shields.io/badge/-kauuul-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 
 ## 💻 Languages
 [![languages](https://skillicons.dev/icons?i=react,js,ts,cs,nodejs,php)](https://skillicons.dev)
@@ -18,6 +16,12 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 
 ### Databases
 [![databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+## Connect with Me
+[![Instagram](https://img.shields.io/badge/-kauschade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kauschade)](https://instagram.com/kauschade)
+[![Twitter](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/kauschade)](https://twitter.com/kauschade)
+[![LinkedIn](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kauschade)](https://www.linkedin.com/in/kauê-renan-schade-a39522284/)
+[![Discord](https://img.shields.io/badge/-kauuul-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 
 ## 📊 GitHub Stats
 <p align="center">
