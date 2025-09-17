@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Kauê%20Schade&fontAlign=50&animation=fadeIn&textBg=false&fontSize=40&desc=Desenvolvedor%20Full-Stack&descAlign=50&descAlignY=68&fontColor=F1F1F1"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Kauê%20Schade&fontAlign=50&animation=fadeIn&textBg=false&fontSize=40&desc=Full-Stack%20Developper&descAlign=50&descAlignY=68&fontColor=F1F1F1"/>
 </p>
 
 <h1 align="center"> Welcome to my Github</h1>
