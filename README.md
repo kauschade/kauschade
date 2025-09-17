@@ -17,7 +17,7 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 [![languages](https://skillicons.dev/icons?i=discordjs,jquery,laravel)](https://skillicons.dev)
 
 ### Databases
-[![databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <p align="center">
