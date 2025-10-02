@@ -6,7 +6,7 @@
 
 ### About Me
 I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Web Developer at [Sisplan Sistemas](https://sisplansistemas.com.br) 🇧🇷.
-I'm currently working on my biggest project. Check it out by clicking [here](https://ecomonitor.devkau.com) 💙 (this project has no connection with Sisplan Sistemas)
+I'm currently working on my biggest project. Check it out by clicking [here](https://ecomonitor.devkau.com) 💙 (‼️this project has no connection with Sisplan Sistemas)
 
 ## 💻 Languages
 [![languages](https://skillicons.dev/icons?i=react,js,ts,cs,nodejs,php)](https://skillicons.dev)
