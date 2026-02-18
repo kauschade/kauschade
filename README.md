@@ -22,9 +22,3 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 [![Twitter](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/kauschade)](https://twitter.com/kauschade)
 [![LinkedIn](https://img.shields.io/badge/-kauschade-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kauschade)](https://www.linkedin.com/in/kauê-renan-schade-a39522284/)
 [![Discord](https://img.shields.io/badge/-kauuul-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauschade&layout=compact&theme=vue&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="Top Langs" style="width: 45%; display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kauschade&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="width: 45%; display: inline-block;"/>
-</p>
