@@ -12,7 +12,7 @@ I'm currently working on my biggest project. Check it out by clicking [here](htt
 [![languages](https://skillicons.dev/icons?i=react,js,ts,cs,nodejs,php)](https://skillicons.dev)
 
 ### FrameWorks
-[![languages](https://skillicons.dev/icons?i=discordjs,jquery,laravel)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=discordjs,jquery,laravel,tailwind)](https://skillicons.dev)
 
 ### Databases
 [![databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
